@@ -3,9 +3,10 @@
 from detectron2.utils.logger import setup_logger
 setup_logger()
 from moviepy.editor import *
+
+from src.tracker import object_traking
 from src.utils import *
 from src.config import args
-
 
 
 object_traking(folder_path= args.imgs_path, 
@@ -16,7 +17,7 @@ object_traking(folder_path= args.imgs_path,
  
 
  # visualise the original vedio
-clip=VideoFileClip('original_vedio.avi')
+clip=VideoFileClip("./videos/" + 'original_vedio.avi')
 clip.ipython_display(width=500)
 
 

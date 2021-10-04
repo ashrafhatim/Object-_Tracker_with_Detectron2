@@ -1,5 +1,5 @@
 import argparse
 
 args = argparse.Namespace(
-    imgs_path = "./data",
+    imgs_path = "./data/",
 )
