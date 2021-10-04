@@ -17,7 +17,7 @@ object_traking(folder_path= args.imgs_path,
  
 
  # visualise the original vedio
-clip=VideoFileClip("./videos/" + 'original_vedio.avi')
+clip=VideoFileClip('original_vedio.avi')
 clip.ipython_display(width=500)
 
 
