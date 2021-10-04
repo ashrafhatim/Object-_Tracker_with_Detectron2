@@ -15,8 +15,12 @@ Make use of the pretrained "COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml
 ```
 ## Sample of the result
 #### Original video
-![alt text](https://github.com/ashrafhatim/Object-_Tracker_with_Detectron2/blob/main/videos/original.mp4)
+![alt text](https://user-images.githubusercontent.com/38093159/135876402-5e04960e-3a86-4e6a-afb7-0b9798c7e03e.mp4)
 #### Resulted video
 ![alt text](https://github.com/ashrafhatim/Object-_Tracker_with_Detectron2/blob/main/videos/resulted.mp4)
 ## Different data
 Change the data in data folder, the inputs is the frames (.jpg) of the video.
+
+
+
+https://user-images.githubusercontent.com/38093159/135876402-5e04960e-3a86-4e6a-afb7-0b9798c7e03e.mp4
