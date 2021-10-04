@@ -13,7 +13,7 @@ Make use of the pretrained "COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml
 ```
 !python main.py
 ```
-## Sample of the result
+## Sample of the results
 #### Original video
 https://user-images.githubusercontent.com/38093159/135876613-2a39763b-a197-44f0-8868-f57ae3db237f.mp4
 
